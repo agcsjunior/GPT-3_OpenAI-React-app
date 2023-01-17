@@ -15,7 +15,7 @@
 
 .gpt3__header-content h1 {
    
-    margin-left: 30px;
+   
     font-family: var(--font-family);
     font-weight: 900;
     font-size: 62px;
@@ -25,7 +25,7 @@
 }
 
 .gpt3__header-content p {
-    margin-left: 30px;
+   
     font-family: var(--font-family);
     font-weight: 400;
     font-size: 20px;
@@ -45,7 +45,7 @@
 }
 
 .gpt3__header-content__input input {
-    margin-left: 30px;
+   
   
     flex: 2;
     width: 100%;
@@ -65,7 +65,7 @@
 }
 
 .gpt3__header-content__input button {
-    margin-right: 10px;
+    
     flex: 0.6;
     width: 100%;
     min-height: 50px;
@@ -95,7 +95,7 @@
 }
 
 .gpt3__header-content__people {
-    margin-left: 35px;
+    margin-left: 5px;
     width: 100%;
     display: flex;
     justify-content: flex-start;
