@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GPT-3_OpenAI-React-app/static/css/main.79801622.css",
+    "main.css": "/GPT-3_OpenAI-React-app/static/css/main.41df5ce9.css",
     "main.js": "/GPT-3_OpenAI-React-app/static/js/main.f53b0cce.js",
     "static/media/ai.png": "/GPT-3_OpenAI-React-app/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/GPT-3_OpenAI-React-app/static/media/possibility.525f13b61a2157d44de0.png",
@@ -12,11 +12,11 @@
     "static/media/people.png": "/GPT-3_OpenAI-React-app/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/GPT-3_OpenAI-React-app/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/GPT-3_OpenAI-React-app/index.html",
-    "main.79801622.css.map": "/GPT-3_OpenAI-React-app/static/css/main.79801622.css.map",
+    "main.41df5ce9.css.map": "/GPT-3_OpenAI-React-app/static/css/main.41df5ce9.css.map",
     "main.f53b0cce.js.map": "/GPT-3_OpenAI-React-app/static/js/main.f53b0cce.js.map"
   },
   "entrypoints": [
-    "static/css/main.79801622.css",
+    "static/css/main.41df5ce9.css",
     "static/js/main.f53b0cce.js"
   ]
 }
